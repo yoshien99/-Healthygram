@@ -20,7 +20,7 @@ post '/login' do
     if @email == 'cutyha2@gmail.com' then
         'login!'
     else
-        'error!'
+        'error!!!'
     end
     
 end
